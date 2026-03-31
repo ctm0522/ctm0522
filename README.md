@@ -1,6 +1,6 @@
 ## Hi I'm Taemin02 👋
 I'm aspiring **💻 Data Engineer | Back-End Developer**.  
-Passionate about **optimizing data flow and system architecture** to maximize AI efficiency.
+🚀 Passionate about **optimizing data flow and system architecture** to maximize AI efficiency.
 <!--
 **ctm0522/ctm0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
