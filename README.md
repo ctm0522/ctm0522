@@ -3,6 +3,8 @@ I'm aspiring **💻 Data Engineer | Back-End Developer**.
   
 🚀 Passionate about **optimizing data flow and system architecture** to maximize AI efficiency.  
 🛠️ Aspiring Data Engineer with a focus on big-data characteristics.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taemin02)](https://solved.ac/taemin02/)
 <!--
 **ctm0522/ctm0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
