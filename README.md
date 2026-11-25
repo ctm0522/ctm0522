@@ -1,5 +1,8 @@
 ## Hi I'm Taemin02 👋
-I'm aspiring **💻 Data Engineer | Back-End Developer**.  
+I'm aspiring **💻 Data Engineer | Back-End Developer**.
+
+## Introduction
+- Yonsei Univ(Mirae) | SoftWare(AI·BigData) 
   
 🚀 Passionate about **optimizing data flow and system architecture** to maximize AI efficiency.  
 🛠️ Aspiring Data Engineer with a focus on big-data characteristics.
