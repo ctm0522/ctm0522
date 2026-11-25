@@ -2,7 +2,7 @@
 I'm aspiring **💻 Data Engineer | Back-End Developer**.
 
 ## Introduction
-- Yonsei Univ (Mirae) | Software(AI·BigData) 
+- Yonsei Univ (Mirae) | Software (AI·BigData) 
   
 🚀 Passionate about **optimizing data flow and system architecture** to maximize AI efficiency.  
 🛠️ Aspiring Data Engineer with a focus on big-data characteristics.
